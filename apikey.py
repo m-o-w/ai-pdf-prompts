@@ -1,2 +1,2 @@
-api_key = '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'
+api_key = ''
 file_name = "budget_speech.pdf"
